@@ -32,3 +32,7 @@ Recomended use is to paste the single line creation command from the txt into th
 - It is recomended you always allow 80, and 443 on the default gateway so you can run updates!
 - Update Services is ran in a secondary thread during lockdown config, it is recomended you always run lockdown first in order to update services ASAP
 - Password follow the format Godnamehere_{6 Random Characters}, this makes it easy to reference in a competion enviroment without giving away the actual password. 
+
+
+## Things to Add
+- List of things to work on for 2025 Competition, Preferbly in a Github Project _Added by RH
